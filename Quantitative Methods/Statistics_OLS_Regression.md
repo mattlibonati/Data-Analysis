@@ -35,7 +35,7 @@ plt.plot(x, y, 'o', color='black');
 ```
 
 
-![alt text](https://github.com/mattlibonati/Quantitative_Methods/blob/master/Images/Statistics_OLS_Regression_scatter.png?raw=true)
+![alt text](https://github.com/mattlibonati/Data-Analysis/tree/master/Quantitative%20Methods/Images/Statistics_OLS_Regression_scatter.png?raw=true)
 
 
 #### Correlation Coefficient
@@ -147,7 +147,7 @@ plt.show()
 ```
 
 
-![alt text](https://github.com/mattlibonati/Quantitative_Methods/blob/master/Images/Statistics_OLS_Regression_fit.png)
+![alt text](https://github.com/mattlibonati/Data-Analysis/tree/master/Quantitative%20Methods/Images/Statistics_OLS_Regression_fit.png)
 
 
 #### Predict y values
