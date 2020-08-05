@@ -57,7 +57,7 @@ And just in case you wanted to see integrate in action...
 integrate(marginal_productivity)
 ```
 
-![alt text](https://github.com/mattlibonati/Data-Analysis/blob/master/Quantitative%20Methods/Images/sympy_integrate_function.PNG)
+![alt text](https://github.com/mattlibonati/Data-Analysis/blob/master/Quantitative%20Methods/Images/sympy_marginal_productivity.PNG)
 
 
 Now that all of the math is out of the way, we need to plot the data. To do so, a twin plot (two y-axis) will be used to visualize total productivity and marginal productivity. The plot will be broken down into five twenty minute sections shaded with decreasing alphas to signify the area under the curve, or productivity during each specified interval. 
