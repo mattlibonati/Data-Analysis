@@ -46,7 +46,7 @@ One of the really cool apsects of SymPy is how it formats the output of an equat
 marginal_productivity
 ```
 
-![alt text](https://github.com/mattlibonati/Data-Analysis/blob/master/Quantitative%20Methods/Images/Statistics_OLS_Regression_fit.png)
+![alt text](https://github.com/mattlibonati/Data-Analysis/blob/master/Quantitative%20Methods/Images/sympy_marginal_productivity.PNG)
 
 
 
